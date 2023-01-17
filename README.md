@@ -11,10 +11,10 @@ CSS
 
 Screenshots:
 
-![image](https://user-images.githubusercontent.com/18406724/126022575-5ae2f363-6fb5-42c3-90f8-693a1e2ecdc7.png)
+![image](https://user-images.githubusercontent.com/18406724/212800686-38b42734-8bce-4c16-9d17-de07592fb3f6.png)
 
 
-![image](https://user-images.githubusercontent.com/18406724/126022588-b778ea53-c8ec-4538-93ce-0eb6461b7868.png)
+![image](https://user-images.githubusercontent.com/18406724/212800751-f173ce48-929f-45e9-a36a-58ff57917590.png)
 
 
-![image](https://user-images.githubusercontent.com/18406724/126022597-84db5764-da65-4e4f-968c-cf6ee32d5aa7.png)
+![image](https://user-images.githubusercontent.com/18406724/212800807-cc4adbec-5488-48e6-99e2-4d5ee958e9bd.png)
